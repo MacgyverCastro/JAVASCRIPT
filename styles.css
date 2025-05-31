@@ -7,8 +7,8 @@
 }
 
 body {
-    background: #020024;
-    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    background: #f50c1f;
+    background: radial-gradient(circle, rgb(183, 20, 247) 0%, rgb(5, 5, 20) 35%, rgba(232, 248, 9, 0.37) 100%);
 }
 
 .logo-money {
@@ -19,22 +19,22 @@ body {
 
 main {
     width: 375px;
-    background: #f4f4f4;
+    background: #e74040;
     border-radius: 20px;
     margin:83px auto;
     padding: 15px 24px 20px;
 }
 
 label {
-    color: #000000;
+    color: #0f0f0f;
     font-weight: 400;
     font-size: 14px;
 }
 
 select,
 input {
-    background: #ffffff;
-    border: 1px solid #07298E;
+    background: #6e7c21;
+    border: 1px solid #9299ad;
     border-radius: 4px;
     height: 40px;
     width: 100%;
@@ -45,12 +45,12 @@ input {
 }
 
 button {
-    background: #07298E;
-    border-radius: 5px;
+    background: #656668;
+    border-radius: 15px;
     width: 100%;
     border: none;
     height: 40px;
-    color: #ffffff;
+    color: #01f32a;
     font-size: 20px;
     cursor: pointer;
 }
@@ -59,7 +59,7 @@ button:hover {
     opacity: 0.8;
 }
 
-button:active {
+button:active{
     opacity: 0.6;
 }
 

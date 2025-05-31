@@ -8,7 +8,7 @@ function convertValues() {
     const currencyValueToConvert = document.querySelector(".currency-value-to-convert")
     const currencyValueConverted = document.querySelector(".currency-value")
 
-    const dolarToday = 5.72
+    const dolarToday = 5
     const euroToday = 6.49
     const realToday = 1.0
 
